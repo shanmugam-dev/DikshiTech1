@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+html {
+  scroll-behavior: smooth; /* Enables smooth scroll for anchor links */
+}
+
+body {
+  @apply bg-slate-950 text-slate-50 antialiased;
+}
+
+.glass-panel {
+  @apply bg-slate-900/60 border border-slate-700/60 backdrop-blur-xl shadow-soft;
+}
+
+.section-padding {
+  @apply py-20 md:py-24;
+}
+
+.container-width {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+
+
