@@ -1,3 +1,4 @@
+#update
 # Dikshi Technologies – Modern Animated Website
 
 Modern, animated marketing site inspired by `dikshitech.com`, built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
@@ -46,6 +47,7 @@ npm run dev
   - Hover scale / lift on cards and buttons.
 - Smooth scrolling is enabled globally via CSS (`scroll-behavior: smooth`) and section IDs.
 - Replace placeholder copy, contact email, and social URLs with your real company data before production use.
+
 
 
 
